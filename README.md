@@ -45,5 +45,5 @@ Process: P2 Arrival Time: 1 Burst time: 5 Waiting Time: 13 Turnaround Time: 18 <
 Process: P3 Arrival Time: 2 Burst time: 8 Waiting Time: 17 Turnaround Time: 25 </br>
 Process: P4 Arrival Time: 3 Burst time: 9 Waiting Time: 20 Turnaround Time: 29 </br>
 Total Turnaround Time: 103 <br>
-Average waiting time = 17.75 <.br>
+Average waiting time = 17.75 </br>
 Average turnaround time = 25.75</br>
